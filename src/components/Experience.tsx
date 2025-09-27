@@ -37,7 +37,7 @@ const Experience: React.FC = () => {
       company: 'UIUC Veterinary Medicine',
       position: 'Data Engineer',
       duration: 'Aug 2025 - Present',
-      logo: '/logos/uiuc-logo.svg',
+      logo: 'logos/uiuc-logo.svg',
       project: {
         projectTitle: 'NL2SQL Agent for Veterinary Data Analytics (LLM + BigQuery)',
         oneLine: 'Built an end-to-end NL2SQL pipeline converting natural language to optimized BigQuery queries for 10M+ veterinary records, reducing query time ~30% and enabling real-time clinical decision-making.',
@@ -64,7 +64,7 @@ const Experience: React.FC = () => {
       company: 'Business Intelligence Group (UIUC)',
       position: 'Technical Consultant',
       duration: 'Aug 2025 - Present',
-      logo: '/logos/big-logo.svg',
+      logo: 'logos/big-logo.svg',
       project: {
         projectTitle: 'University-wide AI Strategy & Implementation Framework',
         oneLine: 'Designed and led strategic AI initiatives across UIUC departments, delivering comprehensive technical consultation and product management for AI solution deployment.',
@@ -91,7 +91,7 @@ const Experience: React.FC = () => {
       company: 'Chinchilla AI',
       position: 'AI Software Engineer',
       duration: 'Aug 2025 - Sep 2025',
-      logo: '/logos/chinchilla-logo.svg',
+      logo: 'logos/chinchilla-logo.svg',
       project: {
         projectTitle: 'Full-Stack AI Application with Real-time LLM Inference',
         oneLine: 'Developed production-ready AI applications using Next.js and AWS, implementing real-time LLM streaming APIs with <200ms latency and integrated payment processing.',
@@ -120,7 +120,7 @@ const Experience: React.FC = () => {
       position: 'Senior Data Analyst',
       duration: 'Jun 2022 - Aug 2024',
       url: 'https://www.capgemini.com',
-      logo: '/logos/capgemini-logo.svg',
+      logo: 'logos/capgemini-logo.svg',
       project: {
         projectTitle: 'Enterprise ETL Pipeline & Automated Reporting Platform',
         oneLine: 'Engineered scalable SQL ETL pipelines for multi-million record procurement/finance datasets, built automated reporting platform improving system performance ~40% and reducing manual processes.',
@@ -149,7 +149,7 @@ const Experience: React.FC = () => {
       position: 'Data Analyst Intern',
       duration: 'Jan 2022 - Jun 2022',
       url: 'https://www.capgemini.com',
-      logo: '/logos/capgemini-logo.svg',
+      logo: 'logos/capgemini-logo.svg',
       project: {
         projectTitle: 'IoT Anomaly Detection & Portfolio Management System',
         oneLine: 'Developed Java-based anomaly detection system processing 50K+ IoT sensor logs with multi-threading, built portfolio management platform reducing project overlap ~15%.',
