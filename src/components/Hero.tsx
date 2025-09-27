@@ -111,7 +111,7 @@ const Hero: React.FC = () => {
               <FiExternalLink className="ml-2 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
             </Link>
             <a
-              href="resume.pdf"
+              href="SDE Resume 2025.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary inline-block"
