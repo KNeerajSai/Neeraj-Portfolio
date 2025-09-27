@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="6" fill="#13294B"/>
+  <!-- Data/Analytics symbols -->
+  <rect x="8" y="20" width="4" height="18" fill="#FF552E"/>
+  <rect x="14" y="16" width="4" height="22" fill="#FF552E"/>
+  <rect x="20" y="12" width="4" height="26" fill="#FF552E"/>
+  <rect x="26" y="18" width="4" height="20" fill="#FF552E"/>
+  <rect x="32" y="14" width="4" height="24" fill="#FF552E"/>
+  <text x="24" y="8" font-family="Arial, sans-serif" font-size="7" font-weight="bold" fill="#FF552E" text-anchor="middle">BIG UIUC</text>
+</svg>
