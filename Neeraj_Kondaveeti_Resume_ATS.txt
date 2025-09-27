@@ -1,0 +1,79 @@
+NEERAJ SAI KONDAVEETI
+Open to Relocate | +1 (447) 902-6552 | nsk9@illinois.edu
+LinkedIn: linkedin.com/in/k-neeraj-sai | Portfolio: kneerajsai.github.io/Neeraj-Portfolio
+
+EDUCATION
+University of Illinois Urbana-Champaign
+Master of Science in Information Management                                                    Aug 2024 - May 2026
+Relevant Coursework: Data Structures & Algorithms, Systems Analysis, Data Science & Statistical Models, Information Modeling, 
+Exploratory Data Analysis, Data Visualization, Methods of Data Science, Relational Databases
+
+TECHNICAL SKILLS
+Languages: Java, Python, C/C++, C#, .NET, Go, Ruby, SQL, MATLAB/Simulink, PHP
+Frameworks & Tools: React.js, Redux, Next.js, Vue.js, FastAPI, Node.js, .NET Core, Docker, Kubernetes, Git, GitHub Actions, 
+Azure DevOps, AWS (Amplify, Lambda), GCP, Databricks, Tableau, Power BI, Kafka, React Native, Swift, Kotlin
+Databases: PostgreSQL, Oracle, BigQuery, Cassandra, MongoDB
+Core Competencies: Data Structures & Algorithms, Object-Oriented Design, Microservices, ETL Pipelines, Machine Learning, 
+Real-time Data Processing, CI/CD, Test-Driven Development, Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+
+University of Illinois Veterinary Medicine | Student Data Engineer                           Aug 2024 - Present
+Urbana-Champaign, IL
+• Architected NL2SQL agent prototype converting natural language to optimized SQL queries for 10M+ veterinary records
+  - Reduced query execution latency by 30% through strategic indexing and caching implementation
+  - Enabled non-technical researchers to access complex datasets, accelerating research velocity by 75%
+• Designed multi-threaded CLI tool using Python with object-oriented architecture for concurrent query processing
+  - Achieved <200ms response time for real-time data requests supporting clinical decision-making
+  - Built reusable query parsing and schema validation modules adopted across 3 research teams
+• Implemented real-time data visualization platform integrating with faculty research datasets
+  - Delivered interactive dashboards processing 50K+ daily transactions for veterinary clinical trials
+  - Improved research collaboration efficiency by 40% through automated reporting pipelines
+
+Chinchilla AI | AI Software Engineer Intern                                                Jul 2025 - Sep 2025
+Remote
+• Developed production-ready full-stack AI applications using React.js, FastAPI, and AWS infrastructure
+  - Delivered scalable system handling 10K+ concurrent users with 99.9% uptime
+  - Reduced deployment time by 60% through automated CI/CD pipeline implementation
+• Engineered real-time streaming APIs for LLM inference with multi-threaded Python services
+  - Achieved <200ms latency for AI model responses through asynchronous request handling
+  - Increased throughput by 25% via backend optimization and caching strategies
+• Refactored core modules partnering with senior engineers for high-load environment scalability
+  - Improved code maintainability score by 40% using SOLID principles and design patterns
+  - Reduced technical debt by 30% through comprehensive unit testing coverage
+
+Capgemini | Senior Data Analyst                                                           Jun 2022 - Aug 2024
+Bengaluru, India
+• Architected microservices-based data ingestion platform processing multi-million record datasets daily
+  - Reduced data processing time by 40% through optimized ETL pipelines in Python and SQL
+  - Enabled real-time analytics for 20+ enterprise clients across procurement and finance domains
+• Led development of automated reporting platform using modular OOP architecture
+  - Automated 80% of manual reporting processes, saving 200+ hours monthly
+  - Improved forecasting accuracy by 35% through statistical modeling and root cause analysis
+• Implemented Docker/Kubernetes-based CI/CD pipelines with GitHub Actions
+  - Achieved zero-downtime deployments with 99.5% success rate
+  - Reduced deployment cycle time from days to hours through automation
+• Mentored 5+ junior analysts in advanced data engineering practices and TDD methodologies
+  - Improved team productivity by 30% through knowledge sharing and code review processes
+  - Led successful delivery of 10+ major data engineering projects on schedule
+
+Capgemini | Data Analyst Intern                                                          Jan 2022 - Jun 2022
+Bengaluru, India  
+• Developed Java-based IoT anomaly detection system processing 50K+ sensor logs using multi-threading
+  - Detected critical anomalies 15% faster than existing systems through optimized algorithms
+  - Reduced false positive rate by 25% using machine learning classification models
+• Built portfolio management platform integrating SQL, Python, and Kafka event streaming
+  - Decreased project overlap by 15% through improved resource allocation visibility
+  - Automated 60% of manual data visualization tasks with interactive dashboards
+• Engineered REST APIs with authentication layers for ERP system integration
+  - Improved system performance by 40% through API optimization and caching
+  - Ensured 99.9% data reliability through comprehensive validation frameworks
+
+Noobtron | Research & Development Intern                                                 Sep 2021 - Jan 2022
+Hyderabad, India
+• Programmed Python + AWS NLP chatbot automating 35% of educational query responses
+  - Reduced average response time from 24 hours to 2 minutes for common queries
+  - Improved user satisfaction scores by 25% through natural language processing
+• Built REST APIs with authentication for content tracking system serving 5K+ users
+  - Achieved 99% API uptime through robust error handling and monitoring
+  - Documented comprehensive API specifications adopted as team standard

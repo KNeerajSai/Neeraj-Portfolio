@@ -1,0 +1,44 @@
+NEERAJ SAI KONDAVEETI
+Open to Relocate | +1 (447) 902-6552 | nsk9@illinois.edu | linkedin.com/in/k-neeraj-sai | kneerajsai.github.io/Neeraj-Portfolio
+
+EDUCATION
+University of Illinois Urbana-Champaign                                                    Aug 2024 - May 2026
+Master of Science in Information Management
+Relevant Coursework: Data Structures & Algorithms, Data Science, Information Modeling, Relational Databases
+
+TECHNICAL SKILLS
+Languages: Java, Python, C/C++, C#, SQL, JavaScript/TypeScript, Go, Ruby
+Technologies: React.js, Next.js, FastAPI, Node.js, Docker, Kubernetes, AWS (Amplify, Lambda), GCP, Kafka
+Databases: PostgreSQL, Oracle, BigQuery, MongoDB | Tools: Git, CI/CD, Tableau, Power BI, JIRA
+
+PROFESSIONAL EXPERIENCE
+
+University of Illinois Veterinary Medicine | Student Data Engineer                        Aug 2024 - Present
+• Architected NL2SQL agent converting natural language to SQL queries for 10M+ records; reduced latency by 30%
+• Designed multi-threaded Python CLI achieving <200ms response time for real-time clinical decision support
+• Built data visualization platform processing 50K+ daily transactions; improved research efficiency by 40%
+
+Chinchilla AI | AI Software Engineer Intern                                             Jul 2025 - Sep 2025
+• Developed full-stack AI applications (React.js/FastAPI/AWS) handling 10K+ concurrent users with 99.9% uptime
+• Engineered streaming APIs for LLM inference achieving <200ms latency; increased throughput by 25%
+• Refactored core modules using SOLID principles; improved maintainability by 40%, reduced technical debt by 30%
+
+Capgemini | Senior Data Analyst                                                        Jun 2022 - Aug 2024
+• Architected microservices data platform processing millions of records; reduced processing time by 40%
+• Led automated reporting platform development saving 200+ hours/month; improved forecast accuracy by 35%
+• Implemented Docker/Kubernetes CI/CD achieving zero-downtime deployments with 99.5% success rate
+• Mentored 5+ analysts; delivered 10+ major projects on schedule with 30% productivity improvement
+
+Capgemini | Data Analyst Intern                                                        Jan 2022 - Jun 2022
+• Developed Java IoT anomaly detection system for 50K+ sensors; detected anomalies 15% faster
+• Built portfolio management platform with Kafka; reduced project overlap by 15%, automated 60% of reporting
+• Engineered REST APIs for ERP integration; improved performance by 40% with 99.9% reliability
+
+Noobtron | R&D Intern                                                                Sep 2021 - Jan 2022
+• Built Python/AWS NLP chatbot automating 35% of queries; reduced response time from 24hrs to 2min
+• Developed REST APIs serving 5K+ users with 99% uptime; improved satisfaction scores by 25%
+
+KEY ACHIEVEMENTS
+• Published research on NL2SQL optimization for veterinary datasets (in progress)
+• Led cross-functional teams of 10+ engineers across 3 time zones
+• Certified in AWS Solutions Architecture and Google Cloud Professional Data Engineer (pursuing)
