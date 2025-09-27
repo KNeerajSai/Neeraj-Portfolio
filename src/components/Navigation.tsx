@@ -58,7 +58,7 @@ const Navigation: React.FC = () => {
             </Link>
           ))}
           <a
-            href="/resume.pdf"
+            href="resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
@@ -106,7 +106,7 @@ const Navigation: React.FC = () => {
             </Link>
           ))}
           <a
-            href="/resume.pdf"
+            href="resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary mt-6"
