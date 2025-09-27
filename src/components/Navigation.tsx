@@ -58,7 +58,7 @@ const Navigation: React.FC = () => {
             </Link>
           ))}
           <a
-            href="resume.pdf"
+            href="SDE Resume 2025.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"
