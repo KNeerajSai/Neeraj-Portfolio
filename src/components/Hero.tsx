@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
         initial="hidden"
         animate="visible"
       >
-        <div className="max-w-5xl mx-auto">
+        <div className="max-w-5xl mx-auto relative">
           <motion.p variants={itemVariants} className="text-accent font-mono text-sm md:text-base mb-4">
             Hi, my name is
           </motion.p>
@@ -111,10 +111,15 @@ const Hero: React.FC = () => {
               <FiExternalLink className="ml-2 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
             </Link>
             <a
-              href="resume.pdf"
+              href={`${process.env.PUBLIC_URL}/resume.pdf`}
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary inline-block"
+              onClick={(e) => {
+                // Debug: log the actual URL being used
+                console.log('Resume URL:', `${process.env.PUBLIC_URL}/resume.pdf`);
+                console.log('PUBLIC_URL:', process.env.PUBLIC_URL);
+              }}
             >
               View Resume
             </a>
@@ -144,6 +149,7 @@ const Hero: React.FC = () => {
               <FiMail size={24} />
             </a>
           </motion.div>
+
         </div>
       </motion.div>
       

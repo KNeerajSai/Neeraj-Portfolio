@@ -103,7 +103,7 @@ const Projects: React.FC = () => {
         >
           <div className="flex items-center mb-10">
             <h2 className="heading-2 text-textPrimary">
-              <span className="text-accent font-mono text-xl md:text-2xl mr-2">03.</span>
+              <span className="text-accent font-mono text-xl md:text-2xl mr-2">06.</span>
               Some Things I've Built
             </h2>
             <div className="flex-1 h-[1px] bg-tertiary ml-6"></div>

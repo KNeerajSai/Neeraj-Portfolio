@@ -91,8 +91,8 @@ const About: React.FC = () => {
                 <div className="absolute inset-0 bg-accent rounded-lg transform translate-x-4 translate-y-4 group-hover:translate-x-3 group-hover:translate-y-3 transition-transform duration-300"></div>
                 <div className="relative bg-secondary rounded-lg overflow-hidden">
                   <img
-                    src="https://via.placeholder.com/300x300"
-                    alt="Profile"
+                    src={`${process.env.PUBLIC_URL}/1759178677212.jpg`}
+                    alt="Neeraj Sai Kondaveeti"
                     className="w-full h-auto filter grayscale hover:grayscale-0 transition-all duration-300"
                   />
                   <div className="absolute inset-0 bg-accent/20 group-hover:bg-transparent transition-all duration-300"></div>

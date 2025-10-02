@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
         >
           <div className="flex items-center justify-center mb-10">
             <h2 className="heading-2 text-textPrimary">
-              <span className="text-accent font-mono text-xl md:text-2xl mr-2">05.</span>
+              <span className="text-accent font-mono text-xl md:text-2xl mr-2">07.</span>
               What's Next?
             </h2>
           </div>
