@@ -66,24 +66,27 @@ const Experience: React.FC = () => {
       duration: 'Aug 2025 - Present',
       logo: 'logos/business_intelligence_group_at_uiuc_logo.jpeg',
       project: {
-        projectTitle: 'University-wide AI Strategy & Implementation Framework',
-        oneLine: 'Designed and led strategic AI initiatives across UIUC departments, delivering comprehensive technical consultation and product management for AI solution deployment.',
-        contextProblem: 'University departments lacked unified AI strategy and technical expertise to implement effective data-driven solutions. Fragmented approaches led to inefficient resource allocation and missed opportunities.',
+        projectTitle: 'University-wide AI Strategy & Implementation Framework + Enterprise Consulting',
+        oneLine: 'Designed strategic AI initiatives across UIUC departments and provided technical consulting for Insurance/Healthcare companies, delivering AI solutions and knowledge base systems.',
+        contextProblem: 'University departments lacked unified AI strategy and technical expertise. Insurance/Healthcare companies needed real-time policy tracking and automated claim processing to reduce manual workload and improve claim accuracy.',
         whatIBuilt: [
-          'AI Strategy Framework: Comprehensive assessment and roadmap for department-specific AI implementations',
-          'Technical Feasibility Studies: Cross-departmental analysis of AI solution viability and ROI',
+          'AI Strategy Framework: Comprehensive assessment and roadmap for department-specific AI implementations across 15+ UIUC departments',
+          'Real-time Knowledge Base System: Dynamic policy tracking platform that refreshes automatically with updated insurance/healthcare policies',
+          'LLM-based Claims Assistant Chatbot: Intelligent system for claim filing assistance and guidance, reducing manual review requirements',
           'Product Management Pipeline: End-to-end AI solution development lifecycle management',
           'Cross-functional Collaboration Tools: Frameworks for seamless team coordination on AI projects',
-          'Emerging Technology Guidance: Strategic recommendations on cutting-edge AI technologies'
+          'Automated Due Date Tracking: Policy deadline monitoring system preventing missed critical dates'
         ],
         impact: [
           'Standardized AI implementation approach across 15+ university departments',
-          'Improved resource allocation efficiency for AI initiatives',
-          'Accelerated AI solution deployment timelines',
+          'Increased insurance claim approval rate by 25% through automated guidance and error reduction',
+          'Reduced claim processing time from days to hours through LLM-assisted workflows',
+          'Decreased agency workload by 40% through automated tracking of policy details and deadlines',
+          'Improved claim accuracy by 30% through real-time policy validation and compliance checking',
           'Enhanced cross-departmental collaboration on technology projects'
         ],
         approach: 'Assessment → Strategy Development → Technical Consultation → Implementation Planning → Product Management → Solution Deployment → Performance Monitoring',
-        tech: ['AI Solutions', 'Product Management', 'Technical Consultation', 'Machine Learning', 'Strategic Planning', 'Cross-functional Leadership']
+        tech: ['AI Solutions', 'Product Management', 'Technical Consultation', 'Machine Learning', 'Strategic Planning', 'Cross-functional Leadership', 'LLM Integration', 'Real-time Data Systems', 'Insurance Domain Knowledge']
       }
     },
     {
